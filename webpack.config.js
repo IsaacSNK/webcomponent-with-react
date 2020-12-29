@@ -2,7 +2,7 @@ const HtmlWebPackPlugin = require("html-webpack-plugin");
 const path = require('path');
 
 module.exports = {
-    entry: "./src/AppComponent.ts",
+    entry: "./src/FastAppComponent.ts",
     devtool: 'inline-source-map',
     output: {
         path: path.resolve(__dirname, 'dist'),

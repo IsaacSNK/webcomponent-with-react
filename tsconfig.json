@@ -8,6 +8,7 @@
     "jsx": "react",
     "sourceMap": true,
     "target": "es6",
+    "experimentalDecorators": true,
     "typeRoots": [
       "node_modules/@types"
     ],
